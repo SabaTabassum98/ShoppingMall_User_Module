@@ -9,5 +9,6 @@ public interface IUserService
 	
 	public User login(User user);
 	public boolean logOut();
+	//public void searchUserById(int id);
 	
 }
